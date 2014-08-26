@@ -1,7 +1,7 @@
-talksapp
+go-build
 ========
 
-This project is the source for [go-talks.appspot.com](http://go-talks.appspot.com).
+This project is the source for [go-build.appspot.com](http://go-build.appspot.com).
 
 Contributions
 -------------

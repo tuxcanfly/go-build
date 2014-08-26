@@ -3,6 +3,8 @@
 *.a
 *.so
 
+config.go
+
 # Folders
 _obj
 _test
